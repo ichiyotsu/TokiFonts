@@ -36,17 +36,20 @@ TokiFonts 区分 Pro 和 CE 版本。
 下载 4.0丨查看仓库（由于已经删库不再提供链接）
 <!--[下载 4.0](https://github.com/fahadalijaved/SamFonts/releases/download/v4.0/app-arm64-v8a-release.apk)丨[查看仓库](https://github.com/fahadalijaved/SamFonts)-->
 
-<img width="2000" height="647" alt="1" src="https://github.com/user-attachments/assets/4edc96eb-216f-493a-82c5-47a0ab84080f" />
-<img width="2000" height="647" alt="2" src="https://github.com/user-attachments/assets/a889d563-f94b-4043-8593-fdbd992bccda" />
-<img width="2000" height="647" alt="3" src="https://github.com/user-attachments/assets/80cf2ed0-be01-45a3-af95-52bbb5242ad4" />
-<img width="2000" height="647" alt="4" src="https://github.com/user-attachments/assets/8640b518-8f26-47b3-98a6-3811be96f58a" />
-<img width="2000" height="647" alt="5" src="https://github.com/user-attachments/assets/479bd892-f365-4b1f-8835-d409db7e8aa5" />
+<img width="2000" height="647" alt="1" src="https://github.com/user-attachments/assets/febe4234-5fe3-46dd-bce0-dbaf7bbfb18d" />
+<img width="2000" height="647" alt="2" src="https://github.com/user-attachments/assets/c11d8d6f-ab07-4061-ab23-ed3e893dab8f" />
+<img width="2000" height="647" alt="3" src="https://github.com/user-attachments/assets/dea21a75-1257-4cdb-bbfb-12b322d2323b" />
+<img width="2000" height="647" alt="4" src="https://github.com/user-attachments/assets/7b52ab6a-4a7b-4ecd-8dc6-9e0463d3fb67" />
+<img width="2000" height="647" alt="5" src="https://github.com/user-attachments/assets/94da519f-9ba6-43ed-a03e-c2b0bf0e60de" />
+<img width="2000" height="647" alt="6" src="https://github.com/user-attachments/assets/3369db0c-d817-4639-9f02-bf93955bfccd" />
+<img width="2000" height="647" alt="7" src="https://github.com/user-attachments/assets/447a10aa-e9a6-4680-b065-4f773927ee2e" />
 
 ## 2-2 教程 - 使用 ZFont3 安装字体
-[下载 3.9.2.4](https://github.com/zFont/Host/releases/download/zFont/zfont_latest.apk)丨[Google Play](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)丨[查看官网](https://zfont.github.io/)
+[下载 3.9.2.5](https://github.com/zFont/Host/releases/download/zFont/zfont_v3.9.2.5-sideload-release.apk)丨[Google Play](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)丨[查看官网](https://zfont.github.io/)
 
-<img width="2000" height="647" alt="6" src="https://github.com/user-attachments/assets/ddf80cd5-ff77-4337-a160-dc412e2273fb" />
-<img width="2000" height="647" alt="7" src="https://github.com/user-attachments/assets/3b91deb6-5b64-4585-9aef-d6a0a8a8ec45" />
+<img width="2000" height="647" alt="8" src="https://github.com/user-attachments/assets/570099e6-b9e2-4bee-a556-e7bbb228c520" />
+<img width="2000" height="647" alt="9" src="https://github.com/user-attachments/assets/b20de153-4ebc-4479-abd5-4c897fff6e38" />
+<img width="2000" height="647" alt="10" src="https://github.com/user-attachments/assets/9a8977de-b98e-49ae-87d6-e214582601a9" />
 <img width="2000" height="647" alt="8" src="https://github.com/user-attachments/assets/b839a6d1-9c92-4ede-bfca-0c9bc3df6c6c" />
 <img width="2000" height="647" alt="9" src="https://github.com/user-attachments/assets/b31098ed-2184-445d-a91a-caff0a08e1a7" />
 <img width="2000" height="647" alt="10" src="https://github.com/user-attachments/assets/f80076c6-169b-4413-a86e-00bc62e3ef9d" />
