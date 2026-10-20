@@ -1,17 +1,19 @@
 <img width="1421" height="336" alt="image" src="https://github.com/user-attachments/assets/0f3cec7c-2401-4fb9-80c6-7e80e426af5e" />
-本项目是在 TokiFontsResource 的基础上进行的优化和增强。对于字体的查找更加方便，新增了预览和介绍，下载安装教程等更多内容。
+本项目是在 TokiFontsResource 的基础上进行的优化和增强。
 
-本文档分为五个部分（关于丨教程丨指南丨字体丨更多）如需获取字体下载等内容，可以访问**指南**。
+由于近期 knox 漏洞被逐步修复，因此本项目重新启动更新。
+
+本文档分为五个部分（关于丨教程丨指南丨字体丨更多）如需了解该项目如何使用等内容，请访问**指南**。
 
 # I. 关于
 <img width="1416" height="330" alt="1" src="https://github.com/user-attachments/assets/fe038590-adfc-47c5-b1a4-90491011e536" />
 TokiFonts 是建立在三星 OneUI 8+ 系统字体更换教程的基础上的衍生作品，在这里会不定期存储一些字体，方便大家下载和使用。你也可以带着字体加入我们，扩展资源库。
 
-TokiFonts 区分 Pro 和 Social 版本。
+TokiFonts 区分 Pro 和 CE 版本。
 
-对于 Pro（原Resource）版，全面由 ichiyotsu 运营管理。主要以开源字体为主，且包含教程和来源等信息。如有问题可随时发出 Issues 询问。
+对于 Pro 版，主要以收录开源字体为主，且附带更新了字体安装教程。如有问题可随时通过 Issues 等方式进行提议。
 
-对于 Social 版，主要以社区投稿的方式存在。社区投稿的内容不定期审核整理，部分内容可能会受到 Pro 的二次收录。
+对于 CE 版，主要以社区投稿的方式存在。社区投稿的内容不定期审核整理，部分内容可能会受到 Pro 的二次收录。
 > 目前社区版暂未发布。待发布时会同步更新发布规范，不符合的内容可能会被移除。
 
 <br><br>
@@ -20,16 +22,19 @@ TokiFonts 区分 Pro 和 Social 版本。
 <img width="1413" height="327" alt="2" src="https://github.com/user-attachments/assets/8d7164ed-5da7-4bad-a4f2-a1ae0bc0d96b" />
 如果你不想 root 只想换字体，请参考教程 2-1 或 2-2 。
 
-> 该方式可能在部分页面如微信（个人>朋友圈）中不生效。
+> 该方式可能在部分页面如微信（个人 > 朋友圈）中不生效。
 
-如果你希望通过临时 root 更换字体，请参考教程 2-3 。
+> 自 2026.10.3 起，三星启动了针对 SamFonts/ZFont 等字体软件所使用的 Knox Enterprise License Key（企业许可证密钥）的彻底封杀，受影响的用户在尝试激活或更换字体时会直接报错并提示 Error 204。因此如果你在之前进行了卸载 Knox 权限，也就没法再次使用这个教程啦。
+
+如果你希望通过临时 root 更换字体，请根据你的设备型号参考 2-3 或 2-4 。
 > root有风险，请自行决定。部分设备需要在重启后字体才会生效。
 
 如果你要完全 root，这里暂时不提供教程。
 > 完全 root 会导致 knox 物理熔断，三星钱包，安全文件夹等功能无法使用。且银行类App可能无法进入，不建议在主力设备上进行这类实验。
 
-## 2-1 教程 - 使用 SamFont 安装字体 
-[下载 4.0](https://github.com/fahadalijaved/SamFonts/releases/download/v4.0/app-arm64-v8a-release.apk)丨[查看仓库](https://github.com/fahadalijaved/SamFonts)
+## 2-1 教程 - 使用 SamFonts 安装字体 
+下载 4.0丨查看仓库（由于已经删库不再提供链接）
+<!--[下载 4.0](https://github.com/fahadalijaved/SamFonts/releases/download/v4.0/app-arm64-v8a-release.apk)丨[查看仓库](https://github.com/fahadalijaved/SamFonts)-->
 
 <img width="2000" height="647" alt="1" src="https://github.com/user-attachments/assets/4edc96eb-216f-493a-82c5-47a0ab84080f" />
 <img width="2000" height="647" alt="2" src="https://github.com/user-attachments/assets/a889d563-f94b-4043-8593-fdbd992bccda" />
@@ -47,11 +52,10 @@ TokiFonts 区分 Pro 和 Social 版本。
 <img width="2000" height="647" alt="10" src="https://github.com/user-attachments/assets/f80076c6-169b-4413-a86e-00bc62e3ef9d" />
 <img width="2000" height="647" alt="11" src="https://github.com/user-attachments/assets/f54ec96e-9e47-4547-8306-2a9dc023b71d" />
 
-## 2-3 教程 - 临时 root 安装字体
-### 2-3-1 RootMyS24
+## 2-3 教程 - 使用 RootMyS24 临时 root 安装字体
 <img width="2000" height="647" alt="12" src="https://github.com/user-attachments/assets/836da32f-7ac9-408d-a602-26b3140f1b9c" />
 
-### 2-3-2 Root-My-Galaxy
+## 2-4 教程 - 使用 Root-My-Galaxy 临时 root 安装字体
 <img width="2000" height="647" alt="13" src="https://github.com/user-attachments/assets/66615717-39ff-4078-8bce-6985211a2304" />
 <br><br>
 
