@@ -1,4 +1,5 @@
-<img width="1421" height="336" alt="image" src="https://github.com/user-attachments/assets/0f3cec7c-2401-4fb9-80c6-7e80e426af5e" />
+<!-- <img width="1421" height="336" alt="image" src="https://github.com/user-attachments/assets/0f3cec7c-2401-4fb9-80c6-7e80e426af5e" /> -->
+
 本项目是在 TokiFontsResource 的基础上进行的优化和增强。
 
 本文档分为五个部分（关于丨教程丨指南丨字体丨更多）如需了解该项目如何使用等内容，请访问**指南**。
@@ -14,7 +15,6 @@
 <br><br>
 
 # I. 关于
-<img width="1416" height="330" alt="1" src="https://github.com/user-attachments/assets/fe038590-adfc-47c5-b1a4-90491011e536" />
 TokiFonts 是建立在三星 OneUI 8+ 系统字体更换教程的基础上的衍生作品，在这里会不定期存储一些字体，方便大家下载和使用。你也可以带着字体加入我们，扩展资源库。
 
 TokiFonts 区分 Pro 和 CE 版本。
@@ -27,7 +27,6 @@ TokiFonts 区分 Pro 和 CE 版本。
 <br><br>
 
 # II. 教程
-<img width="1413" height="327" alt="2" src="https://github.com/user-attachments/assets/8d7164ed-5da7-4bad-a4f2-a1ae0bc0d96b" />
 ° 如果你不想 root 只想换字体，请参考教程 2-1 或 2-2 。
 
 > 该方式可能在部分页面如微信（个人 > 朋友圈）中不生效。
@@ -100,7 +99,6 @@ TokiFonts 区分 Pro 和 CE 版本。
 <br><br>
 
 # III.指南
-<img width="1416" height="331" alt="3" src="https://github.com/user-attachments/assets/e3a878f6-220d-496e-904d-9410008432ce" />
 <img width="2000" height="647" alt="14" src="https://github.com/user-attachments/assets/1c862e01-69f5-4f5d-af4f-acf0d2f43883" />
 <img width="2000" height="647" alt="15" src="https://github.com/user-attachments/assets/aef0f43f-5cb0-4e9c-ba6d-30c9e87aba7a" />
 <img width="2000" height="647" alt="16" src="https://github.com/user-attachments/assets/8c27a294-000b-428e-9294-fa8856452da2" />
@@ -109,14 +107,11 @@ TokiFonts 区分 Pro 和 CE 版本。
 <br><br>
 
 # IV.字体
-<img width="1416" height="332" alt="4" src="https://github.com/user-attachments/assets/3a7140bd-e0b2-4ff7-b0e4-8bcb18aacc07" />
-
-> 正在探索新展示方式，字体板块预计在 2026.10 完成迁移。
+> 正在探索新展示方式，字体板块预计在 2026.11 完成迁移。
 
 <br><br>
 
 # V.其他
-<img width="1419" height="330" alt="5" src="https://github.com/user-attachments/assets/dca4841e-738b-4f6d-bf23-4af06775347a" />
 <img width="2000" height="647" alt="11" src="https://github.com/user-attachments/assets/2389d2af-83af-4732-a356-9b54f28d42cb" />
 <img width="2000" height="647" alt="12" src="https://github.com/user-attachments/assets/ee40077d-1ecc-40d0-9e2a-d12a0cad65e4" />
 <img width="2000" height="647" alt="13" src="https://github.com/user-attachments/assets/9b1b3cc6-b8eb-4704-8060-23086b66d91a" />
