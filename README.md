@@ -1,4 +1,4 @@
-<!-- <img width="1421" height="336" alt="image" src="https://github.com/user-attachments/assets/0f3cec7c-2401-4fb9-80c6-7e80e426af5e" /> -->
+<img width="2000" height="647" alt="1" src="https://github.com/user-attachments/assets/52d95c63-cbce-4aa9-95d3-bd29c1da4919" />
 
 本项目是在 TokiFontsResource 的基础上进行的优化和增强。
 
