@@ -23,8 +23,8 @@ Regular（常规）、Medium（中等）、Semi-Bold（中粗）、Bold（粗体
 
 <br><br>
 
-## Source Han Sans
-Source Han Sans（思源黑体）是 Adobe 与 Google 于 2014 年 7 月 16 日联合开发的开源泛 CJK（中日韩）无衬线系统字体系列，正式取代了过去跨语种排版中各地区字形不统一、字重匮乏的混乱局面，也是谷歌 Noto Sans CJK 字体的官方孪生版本，目前是全球开源生态和跨平台设计中最核心的默认多语言中文字体。
+## Source Han Sans 思源黑体
+Source Han Sans 是 Adobe 与 Google 于 2014 年 7 月 16 日联合开发的开源泛 CJK（中日韩）无衬线系统字体系列，正式取代了过去跨语种排版中各地区字形不统一、字重匮乏的混乱局面，也是谷歌 Noto Sans CJK 字体的官方孪生版本，目前是全球开源生态和跨平台设计中最核心的默认多语言中文字体。
 
 **设计变体**
 
@@ -36,8 +36,8 @@ ExtraLight（特细）、Light（细）、Normal（正文）、Regular（常规�
 
 <br><br>
 
-## Source Han Serif
-Source Han Serif（思源宋体）是 Adobe 与 Google 于 2017 年 4 月 3 日联合发布的开源泛 CJK（中日韩）有衬线系统字体系列，作为此前发布的思源黑体（Source Han Sans）的官方衬线伴生版本，也是谷歌 Noto Serif CJK 字体的官方孪生版本，目前是全球开源生态和跨平台设计中最核心的默认多语言中文衬线（宋体/明体）字体。
+## Source Han Serif 思源宋体
+Source Han Serif 是 Adobe 与 Google 于 2017 年 4 月 3 日联合发布的开源泛 CJK（中日韩）有衬线系统字体系列，作为此前发布的思源黑体（Source Han Sans）的官方衬线伴生版本，也是谷歌 Noto Serif CJK 字体的官方孪生版本，目前是全球开源生态和跨平台设计中最核心的默认多语言中文衬线（宋体/明体）字体。
 
 **设计变体**
 
