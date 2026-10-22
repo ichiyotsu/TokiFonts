@@ -18,6 +18,7 @@ PingFang是苹果公司于 2015 年 6 月 8 日在旧金山的 WWDC 2015 上公�
 `SC` 简体中文 `TC` 台湾繁中 `HK` 香港繁中
 
 **字重**丨共 6 种
+
 Ultralight（极细）、Light（细）、Regular（常规）、Medium（中等）、Semibold（中粗）、Bold（粗体）。
 
 <br><br>
