@@ -31,6 +31,7 @@ Source Han Sans 是 Adobe 与 Google 于 2014 年 7 月 16 日联合开发的开
 `SC` 简体中文 `TW` 台湾繁中 `HK` 香港繁中 `JP/KR` 日文与韩文变体 `VF` 可变字体
 
 **字重**丨共 7 种丨目前提供 1 个文件（仅 VF 可变） 
+> 由于思源黑体字体库比较全面。这里的 VF 高达 35MB。超过了 Github 的文件传输上限，因此上传的是压缩包。你可以正常下载压缩包然后解压使用。Windows 11 文件管理器自带解压功能，无需额外下载。
 
 ExtraLight（特细）、Light（细）、Normal（正文）、Regular（常规）、Medium（中等）、Bold（粗体）、Heavy（特粗）。
 
