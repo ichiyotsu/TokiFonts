@@ -1,16 +1,16 @@
 <img width="2000" height="647" alt="1" src="https://github.com/user-attachments/assets/52d95c63-cbce-4aa9-95d3-bd29c1da4919" />
-
-本项目是在 TokiFontsResource 的基础上进行的优化和增强。
-
-本文档分为五个部分（关于丨教程丨指南丨字体丨更多）如需了解该项目如何使用等内容，请访问**指南**。
 <br><br>
-# ReadMe 近期更新
-### 2026.10.21
+
+# 公告栏
+## 仓库近期更新
+
 1 优化页面部分模块展示。
 
-2 修复部分教程出错的问题。
+2 修复并完善了部分教程可能存在的问题。
 
-3 新增教程 #2-3 RootMyS24 相关内容。
+3 新增教程 `#2-3 RootMyS24` 相关内容。
+
+4 对 Resource 库进行全面迁移。
 
 <br><br>
 
@@ -76,7 +76,7 @@ TokiFonts 区分 Pro 和 CE 版本。
 <img width="2000" height="647" alt="10" src="https://github.com/user-attachments/assets/f80076c6-169b-4413-a86e-00bc62e3ef9d" />
 <img width="2000" height="647" alt="11" src="https://github.com/user-attachments/assets/f54ec96e-9e47-4547-8306-2a9dc023b71d" />
 
-## 2-3 教程 - 使用 RootMyS24 临时 root 安装字体
+## 2-3 教程 - 使用 RootMyS24 获取临时 Root 权限
 [![](https://img.shields.io/badge/RootMyS24-5.3.1-white)](https://github.com/NanoTurtle1145/root-my-s24/releases/download/v3.5.1/RootMyS24-v3.5.1-release.apk)
 [![](https://img.shields.io/badge/KernelSU-3.3.0-white)](https://github.com/tiann/KernelSU/releases/download/v3.3.0/KernelSU_v3.3.0_32601-release.apk)
 [![](https://img.shields.io/badge/KernelSU-3.2.5-white)](https://github.com/tiann/KernelSU/releases/download/v3.2.5/KernelSU_v3.2.5_32525-release.apk)
@@ -94,11 +94,14 @@ TokiFonts 区分 Pro 和 CE 版本。
 <img width="2000" height="647" alt="22" src="https://github.com/user-attachments/assets/0e994dd4-6a2b-41da-b432-57efec25bad3" />
 <img width="2000" height="647" alt="23" src="https://github.com/user-attachments/assets/b76761b2-6dfd-4054-ac1f-f27f06b617bd" />
 
-## 2-4 教程 - 使用 Root-My-Galaxy 临时 root 安装字体
+## 2-4 教程 - 使用 Root-My-Galaxy 获取临时 Root 权限
+> 相关内容可能在 2026.10 进行重制。
 <img width="2000" height="647" alt="13" src="https://github.com/user-attachments/assets/66615717-39ff-4078-8bce-6985211a2304" />
+
 <br><br>
 
 # III.指南
+> 相关内容可能在 2026.10 进行重制。
 <img width="2000" height="647" alt="14" src="https://github.com/user-attachments/assets/1c862e01-69f5-4f5d-af4f-acf0d2f43883" />
 <img width="2000" height="647" alt="15" src="https://github.com/user-attachments/assets/aef0f43f-5cb0-4e9c-ba6d-30c9e87aba7a" />
 <img width="2000" height="647" alt="16" src="https://github.com/user-attachments/assets/8c27a294-000b-428e-9294-fa8856452da2" />
@@ -107,7 +110,9 @@ TokiFonts 区分 Pro 和 CE 版本。
 <br><br>
 
 # IV.字体
-> 正在探索新展示方式，字体板块预计在 2026.11 完成迁移。
+> 字体文件预计在 2026.10.23 完成迁移。
+> 
+> 正在探索全新的字体形象展示方式。相关预览可能会在 2026.11 上线。
 
 <br><br>
 
